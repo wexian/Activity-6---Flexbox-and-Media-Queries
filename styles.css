@@ -1,0 +1,18 @@
+body {
+    background: #F8EDE3;
+}
+
+.flex-container {
+    background: #D0B8A8;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-item {
+    background: #85586F;
+    margin: 10px;
+    padding: 10px;
+    font-size: 2em;
+}
